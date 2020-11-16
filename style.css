@@ -18,8 +18,8 @@ body{
     flex-wrap: wrap;
 }
 .cur{
-    height: 2rem;
-    width: 2rem;
+    width: 0.2rem;
+    width: 0.2rem;
     background-color: #ffffffd0;
     position: absolute;
     border: 2px solid black;
@@ -30,8 +30,8 @@ body{
     transition-property: background-color, border, animation, z-index;
 }
 .cur3{
-    height: 5rem;
-    width: 5rem;
+    width: 0.2rem;
+    width: 0.2rem;
     position: absolute;
     border: 5px solid #ffffff;
     border-radius: 50%;
